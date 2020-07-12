@@ -41,11 +41,17 @@ We had two files to work with:
 **Sparkify.ipynb:** This is the notebook with the analysis.
 
 **/LogisticRegression:**  File with the resulted Logistic Regression Model.
+
 **/LogisticRegressionWeighted:**  File with the resulted Logistic Regression Weighted Model.
+
 **/LinearSVC:**  File with the resulted Linear SVC Model.
+
 **/RandomForestClassifier:**  File with the resulted Random Forest Classifier Model.
+
 **/GBTClassifier:**  File with the resulted GBT Classifier Model.
+
 **/DecisionTreeClassifier:**  File with the resulted Decision Tree Classifier Model.
+
 
 <a id='working_proccess'></a>
 ## Working Proccess
