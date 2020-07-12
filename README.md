@@ -26,7 +26,7 @@ The objective of this project is to try to make predictions about the churn of a
 
 Especifically we are interested in making predictions about whether a customer is going to leave the service or not. To do this we have tested some Machine Learning Models on a pySpark environment.
 
-The project was developed as the final project for the Udacity Data Scientist Nanodegree. Its aim was to improve the habilities working with pySpark.
+The project was developed as the final project for the Udacity Data Scientist Nanodegree. Its aim was to improve the habilities working with pySpark. A blog with the summary of this work was posted in this [link](https://medium.com/@jesus.mira74/sparkify-analysis-of-churn-predictions-using-pyspark-f6a6a12530ae).
 
 
 <a id='file_descriptions'></a>
